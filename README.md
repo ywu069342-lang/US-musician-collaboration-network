@@ -1,7 +1,6 @@
 # US-musician-collaboration-network
 Data updated in Dec 2023 from musicbrainz and last.fm
 
-
 listeners1000000US.csv: US artists with more than 1,000,000 listeners in last.fm
 
 adjacency_matrix_popUS100w.csv: Collaboration adjacency matrix of artists with 'pop' tag and  more than 1,000,000 listeners in last.fm

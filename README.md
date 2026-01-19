@@ -9,5 +9,5 @@ adjacency_matrix_rockUS100w.csv: Collaboration adjacency matrix of artists with 
 adjacency_matrix_popUS200w.csv: Collaboration adjacency matrix of artists with 'pop' tag and  more than 2,000,000 listeners in last.fm
 adjacency_matrix_rockUS200w.csv: Collaboration adjacency matrix of artists with 'rock' tag and  more than 2,000,000 listeners in last.fm
 
-artist_tag.csv: Artists' tags in musicbrainz
+artist_tag.csv: Artists' tags in musicbrainz;
 Popular_name_mbid.csv: Some important mbid-artists name projection
